@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "723315377784",
-    "project_id": "alvao-explorer4",
-    "storage_bucket": "alvao-explorer4.firebasestorage.app"
+    "project_number": "478977734647",
+    "project_id": "alvao-explorer4-f2138",
+    "storage_bucket": "alvao-explorer4-f2138.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:723315377784:android:91433efbdf07f9558c8f8d",
+        "mobilesdk_app_id": "1:478977734647:android:116ecd0b1de38eecf360f2",
         "android_client_info": {
-          "package_name": "com.mycompany.alvaoexplorer"
+          "package_name": "com.mycompany.alvaoexplorer4"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyC0p0rfF5hpPRYlYIYZQTnj7VKQnLr134w"
+          "current_key": "AIzaSyD7C5PEEPpyjd8UN9y09IX_Jn0zTXaWBn8"
         }
       ],
       "services": {

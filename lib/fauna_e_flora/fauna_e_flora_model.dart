@@ -1,8 +1,8 @@
 import '/flutter_flow/flutter_flow_util.dart';
-import 'pgianinicial_widget.dart' show PgianinicialWidget;
+import 'fauna_e_flora_widget.dart' show FaunaEFloraWidget;
 import 'package:flutter/material.dart';
 
-class PgianinicialModel extends FlutterFlowModel<PgianinicialWidget> {
+class FaunaEFloraModel extends FlutterFlowModel<FaunaEFloraWidget> {
   @override
   void initState(BuildContext context) {}
 

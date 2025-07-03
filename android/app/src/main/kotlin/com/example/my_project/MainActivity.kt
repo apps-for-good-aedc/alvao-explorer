@@ -1,4 +1,4 @@
-package com.mycompany.alvaoexplorer
+package com.mycompany.alvaoexplorer4
 
 import io.flutter.embedding.android.FlutterActivity
 

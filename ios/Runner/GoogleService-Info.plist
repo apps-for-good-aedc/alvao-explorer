@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyAStqbdG2tY64cnd_RrIUNnW_9-VH48zZs</string>
+	<string>AIzaSyCYMXwapC7ZG8oC4NcKVEBDi1s3yWLavcU</string>
 	<key>GCM_SENDER_ID</key>
-	<string>723315377784</string>
+	<string>478977734647</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.mycompany.alvaoexplorer</string>
+	<string>com.mycompany.alvaoexplorer4</string>
 	<key>PROJECT_ID</key>
-	<string>alvao-explorer4</string>
+	<string>alvao-explorer4-f2138</string>
 	<key>STORAGE_BUCKET</key>
-	<string>alvao-explorer4.firebasestorage.app</string>
+	<string>alvao-explorer4-f2138.firebasestorage.app</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:723315377784:ios:8d7e55926e5e31938c8f8d</string>
+	<string>1:478977734647:ios:05ad583d1255b3e4f360f2</string>
 </dict>
 </plist>

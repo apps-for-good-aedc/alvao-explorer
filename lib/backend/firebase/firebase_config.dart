@@ -5,12 +5,12 @@ Future initFirebase() async {
   if (kIsWeb) {
     await Firebase.initializeApp(
         options: FirebaseOptions(
-            apiKey: "AIzaSyB6h0ws1DrdlIBqwOlTWBZ4Ghh0l5shOnY",
-            authDomain: "alvao-explorer4.firebaseapp.com",
-            projectId: "alvao-explorer4",
-            storageBucket: "alvao-explorer4.firebasestorage.app",
-            messagingSenderId: "723315377784",
-            appId: "1:723315377784:web:6dcaf67faee4173c8c8f8d"));
+            apiKey: "AIzaSyCRc_Tu24CHQxZEuxsj1DXxzoOb_GuO18g",
+            authDomain: "alvao-explorer4-f2138.firebaseapp.com",
+            projectId: "alvao-explorer4-f2138",
+            storageBucket: "alvao-explorer4-f2138.firebasestorage.app",
+            messagingSenderId: "478977734647",
+            appId: "1:478977734647:web:4d4a6b3502bbb636f360f2"));
   } else {
     await Firebase.initializeApp();
   }

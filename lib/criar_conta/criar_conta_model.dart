@@ -1,8 +1,9 @@
 import '/flutter_flow/flutter_flow_util.dart';
-import 'criarconta_widget.dart' show CriarcontaWidget;
+import '/index.dart';
+import 'criar_conta_widget.dart' show CriarContaWidget;
 import 'package:flutter/material.dart';
 
-class CriarcontaModel extends FlutterFlowModel<CriarcontaWidget> {
+class CriarContaModel extends FlutterFlowModel<CriarContaWidget> {
   ///  State fields for stateful widgets in this page.
 
   final formKey = GlobalKey<FormState>();
@@ -12,18 +13,19 @@ class CriarcontaModel extends FlutterFlowModel<CriarcontaWidget> {
   String? Function(BuildContext, String?)? textController1Validator;
   // State field(s) for TextField widget.
   FocusNode? textFieldFocusNode2;
-  TextEditingController? textController2;
-  String? Function(BuildContext, String?)? textController2Validator;
+  TextEditingController? emailTextController;
+  String? Function(BuildContext, String?)? emailTextControllerValidator;
   // State field(s) for TextField widget.
   FocusNode? textFieldFocusNode3;
-  TextEditingController? textController3;
+  TextEditingController? passwordTextController;
   late bool passwordVisibility1;
-  String? Function(BuildContext, String?)? textController3Validator;
+  String? Function(BuildContext, String?)? passwordTextControllerValidator;
   // State field(s) for TextField widget.
   FocusNode? textFieldFocusNode4;
-  TextEditingController? textController4;
+  TextEditingController? confirmPasswordTextController;
   late bool passwordVisibility2;
-  String? Function(BuildContext, String?)? textController4Validator;
+  String? Function(BuildContext, String?)?
+      confirmPasswordTextControllerValidator;
 
   @override
   void initState(BuildContext context) {
@@ -37,12 +39,12 @@ class CriarcontaModel extends FlutterFlowModel<CriarcontaWidget> {
     textController1?.dispose();
 
     textFieldFocusNode2?.dispose();
-    textController2?.dispose();
+    emailTextController?.dispose();
 
     textFieldFocusNode3?.dispose();
-    textController3?.dispose();
+    passwordTextController?.dispose();
 
     textFieldFocusNode4?.dispose();
-    textController4?.dispose();
+    confirmPasswordTextController?.dispose();
   }
 }
